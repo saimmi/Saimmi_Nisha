@@ -5,7 +5,7 @@
 A personal portfolio website showcasing data analysis projects, technical
 skills, and experience. Built as a single, self-contained HTML page.
 
-🔗 **Live site:** https://saimmi.github.io  <!-- update if you use a project repo, e.g. https://saimmi.github.io/portfolio -->
+🔗 **Live site:** https://saimmi.github.io/Saimmi_Nisha/  <!-- update if you use a project repo, e.g. https://saimmi.github.io/portfolio -->
 
 ---
 
